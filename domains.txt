@@ -1,0 +1,12 @@
+# mediathek
+mvideos.daserste.de
+www.daserste.de
+www.ard.de
+www.ardmediathek.de
+media.tagesschau.de
+www.zdf.de
+
+# other video/audio streaming websites
+youtube.de
+www.spotify.de
+www.spotify.com
